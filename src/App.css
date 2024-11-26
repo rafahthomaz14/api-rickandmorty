@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(#5967ff, #1e00ff);
+}
+.conteudo{
+    text-align: center;
+    margin-top: 5%;
+}
+.card {
+    padding: 20px;
+    box-shadow: 5px 5px 20px black;
+    border-radius: 20px !important;
+}
+
+.card img{
+    border-radius: 8px;
+    
+}
+
+.card h2{
+    color: rgb(0, 130, 216);
+}
